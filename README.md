@@ -84,13 +84,19 @@ Coding-Metro/
 
 별도의 서버나 패키지 설치가 **필요 없습니다.** 아래 두 가지 방법 중 하나를 선택하세요.
 
-### 방법 1. GitHub에서 직접 다운로드
+### 방법 1. 바로 실행 (GitHub Pages)
+
+👉 https://hotteokdough.github.io/Coding-Metro/
+
+별도 설치 없이 위 링크에서 바로 실행됩니다.
+
+### 방법 2. GitHub에서 직접 다운로드
 
 1. 우측 상단 **`Code`** 버튼 클릭 → **`Download ZIP`** 선택
 2. 다운로드된 ZIP 파일 압축 해제
 3. 압축 해제된 폴더 안의 **`index.html`** 파일을 브라우저로 열기
 
-### 방법 2. Git으로 클론
+### 방법 3. Git으로 클론
 
 ```bash
 git clone https://github.com/HotteokDough/Coding-Metro.git
